@@ -41,7 +41,9 @@ Welcome to a deep dive into Netflix’s vast content library! This project explo
 
 🖼️Visualizations
  📊 Movies vs TV Shows Distribution
+ 
 Plot Type: Bar Chart / Pie Chart
+
  Explanation:
 This visualization shows the proportion of Movies and TV Shows on Netflix. It helps us understand whether Netflix focuses more on movies or serialized content. The dataset reveals that movies form the majority of the platform’s offerings.
 
@@ -49,7 +51,9 @@ This visualization shows the proportion of Movies and TV Shows on Netflix. It he
 
 
  📊 Content Ratings Distribution
+ 
 Plot Type: Count Plot / Bar Chart
+
  Explanation:
 This chart represents the distribution of content ratings (like TV-MA, PG-13, R, etc.) across Netflix's catalog. It provides insights into the age suitability and target demographics of the available titles.
 
@@ -59,20 +63,26 @@ This chart represents the distribution of content ratings (like TV-MA, PG-13, R,
 
 
 ⏱️ Movie Duration Distribution
+
 Plot Type: Histogram 
+
  Explanation:
 This plot analyzes the durations of movies on Netflix. It helps identify whether Netflix tends to host shorter films, standard-length features, or long-form content. Most movies tend to fall between 80 to 120 minutes.
 
 
 
 🌍 Top 10 Countries by Content Count
+
 Plot Type: Horizontal Bar Chart
+
  Explanation:
 This chart highlights the top 10 countries contributing the most titles to Netflix. The United States and India often dominate the list, reflecting Netflix's content licensing and production strategy in these regions.
 
 
 📅 Content Additions Over the Years
+
 Plot Type: Line Chart & Scatterplot
+
  Explanation:
 This time-series plot illustrates how many titles were added to Netflix each year. It shows trends in content acquisition and platform growth, with noticeable spikes in recent years—especially around 2018–2019.
 
