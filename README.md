@@ -74,6 +74,9 @@ Plot Type: Histogram
 This plot analyzes the durations of movies on Netflix. It helps identify whether Netflix tends to host shorter films, standard-length features, or long-form content. Most movies tend to fall between 80 to 120 minutes.
 
 
+![Movie Duration Distribution](https://github.com/kamalikads/netflix-analysis/blob/main/movie_duration_histogram.png)
+
+
 
 🌍 Top 10 Countries by Content Count
 
@@ -82,6 +85,9 @@ Plot Type: Horizontal Bar Chart
  Explanation:
 This chart highlights the top 10 countries contributing the most titles to Netflix. The United States and India often dominate the list, reflecting Netflix's content licensing and production strategy in these regions.
 
+![Top 10 Countries by Content Count]([image_path_or_URL](https://github.com/kamalikads/netflix-analysis/blob/main/Top10_countries.png))
+
+
 
 📅 Content Additions Over the Years
 
@@ -89,6 +95,9 @@ Plot Type: Line Chart & Scatterplot
 
  Explanation:
 This time-series plot illustrates how many titles were added to Netflix each year. It shows trends in content acquisition and platform growth, with noticeable spikes in recent years—especially around 2018–2019.
+
+![Content Additions Over the Years]([image_path_or_URL](https://github.com/kamalikads/netflix-analysis/blob/main/release_year_analysis.png))
+
 
 
 
