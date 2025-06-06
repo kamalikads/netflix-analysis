@@ -48,7 +48,7 @@ Plot Type: Bar Chart / Pie Chart
 This visualization shows the proportion of Movies and TV Shows on Netflix. It helps us understand whether Netflix focuses more on movies or serialized content. The dataset reveals that movies form the majority of the platform’s offerings.
 
 
-![Alt Text](image_path_or_URL)
+![Movies vs TV Shows Distribution](https://github.com/kamalikads/netflix-analysis/blob/0693103fed897f7f7bed099814667203c0f97a4f/Movies%20Vs%20TV%20Show%20on%20Netflix.png)
 
 
 
