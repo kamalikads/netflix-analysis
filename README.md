@@ -1,10 +1,10 @@
-#🎬 Netflix Data Analysis with Python
+# 🎬 Netflix Data Analysis with Python
 
 Welcome to a deep dive into Netflix’s vast content library! This project explores how movies and TV shows are distributed, rated, and structured across time and countries. Using Python and popular data analysis libraries, we uncover key insights from Netflix's catalog.
 
 
 
-📌 Project Objectives
+## 📌 Project Objectives
 
 🔎 This analysis focuses on answering the following questions:
 
@@ -25,22 +25,23 @@ Welcome to a deep dive into Netflix’s vast content library! This project explo
 
 
 
-📊 Key Features
+## 📊 Key Features
 
 - Cleaned and prepared the dataset for effective analysis
 - Used visualizations for better insight and storytelling
 - Derived patterns using grouping and filtering techniques
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python🐍
 - Jupyter Notebook
 - Pandas for data manipulation
 - Matplotlib for data visualization
 
-🖼️Visualizations
- 📊 Movies vs TV Shows Distribution
+## 🖼️Visualizations
+ 
+ ### 📊 Movies vs TV Shows Distribution
  
 Plot Type: Bar Chart / Pie Chart
 
@@ -54,7 +55,7 @@ This visualization shows the proportion of Movies and TV Shows on Netflix. It he
 
 
 
- 📊 Content Ratings Distribution
+ ### 📊 Content Ratings Distribution
  
 Plot Type: Count Plot / Bar Chart
 
@@ -66,7 +67,7 @@ This chart represents the distribution of content ratings (like TV-MA, PG-13, R,
 ![Ratings Distribution](https://github.com/kamalikads/netflix-analysis/blob/main/Rating.png)
 
 
-⏱️ Movie Duration Distribution
+### ⏱️ Movie Duration Distribution
 
 Plot Type: Histogram 
 
@@ -78,7 +79,7 @@ This plot analyzes the durations of movies on Netflix. It helps identify whether
 
 
 
-🌍 Top 10 Countries by Content Count
+### 🌍 Top 10 Countries by Content Count
 
 Plot Type: Horizontal Bar Chart
 
@@ -89,7 +90,7 @@ This chart highlights the top 10 countries contributing the most titles to Netfl
 
 
 
-📅 Content Additions Over the Years
+### 📅 Content Additions Over the Years
 
 Plot Type: Line Chart & Scatterplot
 
