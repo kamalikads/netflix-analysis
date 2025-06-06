@@ -63,7 +63,7 @@ This chart represents the distribution of content ratings (like TV-MA, PG-13, R,
 
 
 
-
+![Ratings Distribution](https://github.com/kamalikads/netflix-analysis/blob/main/Rating.png)
 
 
 ⏱️ Movie Duration Distribution
