@@ -1,4 +1,4 @@
-🎬 Netflix Data Analysis with Python
+#🎬 Netflix Data Analysis with Python
 
 Welcome to a deep dive into Netflix’s vast content library! This project explores how movies and TV shows are distributed, rated, and structured across time and countries. Using Python and popular data analysis libraries, we uncover key insights from Netflix's catalog.
 
